@@ -1,6 +1,6 @@
 #########################################
 #                                       #
-#   file:       efes_project_monitor.py #
+#   file:       parking_sensor_monitor.py #
 #   author:     Nicola Vianello         #
 #   last edit:  Venice 25/02/2019       #
 #                                       #
