@@ -1,6 +1,6 @@
 Organization of the folders:
 
-final_report: contains the final report of the whole project in PDF format.
+final_report: contains the technical report of the whole project in PDF format.
 
 firmware: contains all the source codes of the microcontroller.
 
