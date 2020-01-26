@@ -18,7 +18,7 @@ TEMPERATURE_GAIN=SENSOR_GAIN*CONDITIONING_GAIN
 ADC_GAP=ADC_REF/(1<<ADC_BIT)
 
 mySerial = serial.Serial(
-    port='COM7',
+    port='/dev/ttyUSB0',
     baudrate=1280000,
     parity=serial.PARITY_NONE,
     stopbits=serial.STOPBITS_ONE,
